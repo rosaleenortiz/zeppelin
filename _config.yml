@@ -55,11 +55,11 @@ rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "http://staging.journalism.cuny.edu/wp-content/uploads/2016/12/explore-bkgd.jpg"
 heroTitle: "Testing Zeppelin <typeout> 2017"
 eventDate: "May 3 - 15, 2017"
-typeoutTextValues: '"", "Season", "New York", "San Juan", "Franz Joseph"'
-typeoutFallback: "Season"
+typeoutTextValues: '"", "New York", "San Juan", "Franz Joseph"'
+typeoutFallback: "New York"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
